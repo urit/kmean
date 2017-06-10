@@ -1,7 +1,7 @@
 K-Mean
 =========
  
-Azure Function Implementation
+Microsoft Azure Functions Implementation
 
 Usage:
 
