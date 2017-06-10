@@ -1,9 +1,11 @@
-kmean
+K-Mean
 =========
  
 Azure Function Implementation
 
 Usage:
+
+
 
 curl --data '{"k":5,
             "points":[[101,101],[102,102],[103,103],[104,104],[105,105],
